@@ -16,7 +16,7 @@ public class SpringDoc {
     public OpenAPI customOpenAPI(@Value("${springdoc.version}") String appVersion) {
         return new OpenAPI()
                 .components(new Components())
-                .info(new Info().title("REST API Person para Gerenciamento de Pessoas").version("1.0.0")
+                .info(new Info().title("REST API Person para Gerenciamento de Pessoas").version("5.0.0")
                         .description("Digital Innovation: Expert class - Sistema de gerenciamento de pessoas em API REST com Spring Boot")
                         .license(new License().name("Apache 2.0").url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
