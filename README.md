@@ -32,7 +32,6 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
 * Conta no Heroku para o deploy do projeto na nuvem
-* Muita vontade de aprender e compartilhar conhecimento :)
 
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
