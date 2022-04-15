@@ -2,6 +2,9 @@
 
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
+<h3>Acesso ao projeto no Heroku:</h3>
+<h3>https://api-personlive.herokuapp.com/</h3>
+
 Neste projeto foram desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr
