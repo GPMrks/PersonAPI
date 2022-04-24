@@ -8,9 +8,9 @@ import java.util.Collections;
 
 public class PersonUtils {
 
-    private static final String FIRST_NAME = "Guilherme";
-    private static final String LAST_NAME = "Marques";
-    private static final String CPF_NUMBER = "124.210.796-75";
+    private static final String FIRST_NAME = "Jorge";
+    private static final String LAST_NAME = "Salgado";
+    private static final String CPF_NUMBER = "***.***.***-**";
     private static final long PERSON_ID = 1L;
     public static final LocalDate BIRTH_DATE = LocalDate.of(1994, 06, 26);
 
